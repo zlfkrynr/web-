@@ -1,0 +1,41 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 10px;
+    padding: 10px;
+    font-family: monospace;
+}
+
+.logoo a {
+    font-size: 50px;
+    font-weight: 800px;
+    font-family: monospace;
+    color: #180000;
+}
+
+h2 {
+    color: rgb(6, 143, 255);
+    text-align: left;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+img {
+    width: 300px;
+    border-radius: 10%;
+    margin: 10px;
+}
+
+h2 {
+   width: auto;
+}
+
+p {
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}

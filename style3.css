@@ -1,0 +1,14 @@
+p {
+    text-align: center;
+    font-family: monospace;
+    margin: auto;
+    color: blue;
+    height: 50px;
+    font-size: 20px;
+}
+
+.pp {
+    font-family: monospace;
+    font-size: larger;
+    margin: auto;
+}
